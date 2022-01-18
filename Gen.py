@@ -17,7 +17,7 @@ captchaApi = "anti-captcha.com" # 2captcha.com anti-captcha.com capmonster.cloud
 
 password = "Oxi$tinks"
 
-captchaKey = "KEY"
+captchaKey = "e5d13a1b7aca5b24d552f37d70e5a87d"
 genStartTime = time()
 generatedTokens = 0
 failedTokens = 0
